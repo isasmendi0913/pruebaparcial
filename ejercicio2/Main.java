@@ -1,6 +1,5 @@
 package ejercicio2;
-
-public class Main {
+public class Main{
     public static void main(String[] args) {
         CuentaBancaria cuenta = new CuentaBancaria("Juan Pérez", 1000.0);
 
